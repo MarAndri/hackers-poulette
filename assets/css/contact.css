@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'Bellota';
+    src: url('../fonts/Bellota-Regular.otf') format('OpenType');
+}
+
+@font-face {
+    font-family: 'BellotaBold';
+    src: url('../fonts/Bellota-Bold.otf') format('OpenType');
+}
+
+.row {
+    margin-bottom: 0;
+}
+
+.header {
+    margin-top: 20px;
+}
+
+body {
+    font-family: 'BellotaBold';
+}
+
+.mrs {
+    margin-left: 20px;
+}
+
+h1,
+h2,
+.dropdown-content li {
+    min-height: unset;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.dropdown-content li>span {
+    min-height: unset;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.select-dropdown {
+    font-family: 'BellotaBold';
+}
+
+h1 {
+    font-size: 50px;
+    border-bottom: 1px solid #15c5bd;
+    padding-bottom: 20px;
+    margin: 20px;
+}
+
+
+li {
+    padding: 0;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.logoHeader {
+    width: 200px;
+}
+
+abbr {
+    display: inline;
+    color: #d50000;
+}
+
+.btn {
+    font-family: 'BellotaBold';
+}
+
+.HPEndForm {
+    width: 20%;
+}
